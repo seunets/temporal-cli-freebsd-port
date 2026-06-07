@@ -1,3 +1,2 @@
 bin/temporal
 %%PORTDOCS%%%%DOCSDIR%%/README.md
-man/man1/temporal.1.gz
