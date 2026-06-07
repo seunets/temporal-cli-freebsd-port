@@ -1,0 +1,18 @@
+Temporal CLI is a command-line tool for interacting with Temporal Server.
+
+Temporal is a distributed, scalable, durable, and highly available orchestration
+engine used to execute asynchronous, long-running business logic in a scalable
+and resilient way.
+
+The CLI provides functionality for:
+- Server management and administration
+- Workflow and activity interaction
+- Namespace management
+- Task queue operations
+- Batch operations
+- Search capabilities
+
+This tool is essential for developers and operators working with Temporal
+workflows and enables easy interaction with Temporal Server from the command line.
+
+WWW: https://github.com/temporalio/cli
